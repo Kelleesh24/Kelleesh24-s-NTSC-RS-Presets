@@ -1,4 +1,4 @@
-# Kelleesh24-s-NTSC-RS-Presets
+# Kelleesh24-s-NTSC-RS-Presets (Early Access Content Repo)
 Just a collection of presets for NTSC-RS I made
 
 And only for NTSC-RS: https://github.com/valadaptive/ntsc-rs
@@ -16,5 +16,10 @@ To none, just to jakediditagain (from YT) to inspire me to make "HD Television" 
 And you. Hope you like :/
 
 # Demostration
-Here is a demostration of all the included presets in this repository...
+Here is a demostration of the presets in this repository (TO OCT-01-2024):
+
 https://youtu.be/QmLhAugWq7k
+
+Enjoy
+
+Kelleesh24 / Creator20Guest
